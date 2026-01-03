@@ -1,6 +1,6 @@
 {
   "name": "kotlin-lsp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Claude Code plugin for Kotlin development with kotlin-language-server integration, 12 automated hooks for Gradle builds, linting (detekt, ktlint), formatting, and testing",
   "author": {
     "name": "zircote",
